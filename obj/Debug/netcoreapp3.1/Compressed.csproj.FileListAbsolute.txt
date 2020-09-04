@@ -1,0 +1,11 @@
+C:\Users\Abhishek Sinha\Downloads\Compressed\bin\Debug\netcoreapp3.1\Compressed.exe
+C:\Users\Abhishek Sinha\Downloads\Compressed\bin\Debug\netcoreapp3.1\Compressed.deps.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\bin\Debug\netcoreapp3.1\Compressed.runtimeconfig.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\bin\Debug\netcoreapp3.1\Compressed.runtimeconfig.dev.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\bin\Debug\netcoreapp3.1\Compressed.dll
+C:\Users\Abhishek Sinha\Downloads\Compressed\bin\Debug\netcoreapp3.1\Compressed.pdb
+C:\Users\Abhishek Sinha\Downloads\Compressed\obj\Debug\netcoreapp3.1\Compressed.csprojAssemblyReference.cache
+C:\Users\Abhishek Sinha\Downloads\Compressed\obj\Debug\netcoreapp3.1\Compressed.AssemblyInfoInputs.cache
+C:\Users\Abhishek Sinha\Downloads\Compressed\obj\Debug\netcoreapp3.1\Compressed.AssemblyInfo.cs
+C:\Users\Abhishek Sinha\Downloads\Compressed\obj\Debug\netcoreapp3.1\Compressed.dll
+C:\Users\Abhishek Sinha\Downloads\Compressed\obj\Debug\netcoreapp3.1\Compressed.pdb
